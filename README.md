@@ -2,6 +2,10 @@
 
 Financial Health AI – AI-Powered Fintech Dashboard for SMEs
 
+## 🔗 Live URLs
+- Frontend: https://financialhealthassessment.netlify.app
+- Backend API: https://financial-health-ai-backend-3.onrender.com
+
 🧠 Problem Statement
 
 Small and Medium Enterprises (SMEs) often lack clear visibility into their financial health. They struggle with cash flow management, compliance risks (such as GST), and understanding financial data for decision-making. Existing financial tools are complex, fragmented, and not intelligent enough to provide actionable insights.
